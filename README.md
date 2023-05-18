@@ -1,4 +1,4 @@
 # Advanced-of-Statistical-Physics-unipd
 
-The homework and assignment for the "Advanced Statistical Physics" for the master degree in the University of Padova
-All the assignments are written with "R" 
+Homeworks and assignments for the "Advanced Statistical Physics" for the master degree in the University of Padova
+All the assignments are written "R" 
